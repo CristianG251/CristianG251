@@ -11,6 +11,8 @@ Hey there! I'm Cristian González 👋
 I'm a passionate Full Stack Software Engineer from Buenos Aires, Argentina, with a strong foundation in building scalable web applications and automation solutions. Currently pursuing my Master's in Computer Science at Heriot-Watt University while bringing 5+ years of professional experience to every project.
 
 </div>
+</div>
+</div>
 
 🎓 Bachelor's in Information Technology from Universidad Abierta Interamericana
 
@@ -25,6 +27,7 @@ I'm a passionate Full Stack Software Engineer from Buenos Aires, Argentina, with
 
 💻 Tech Stack
 Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
