@@ -4,6 +4,8 @@ Hey there! I'm Cristian González 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Bilingual+Developer;Problem+Solver;Always+Learning+New+Tech)
 
+<br>
+
 🚀 About Me
 
 
