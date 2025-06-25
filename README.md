@@ -4,15 +4,12 @@ Hey there! I'm Cristian González 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Bilingual+Developer;Problem+Solver;Always+Learning+New+Tech)
 
-</div>
 🚀 About Me
-</div>
+
 
 I'm a passionate Full Stack Software Engineer from Buenos Aires, Argentina, with a strong foundation in building scalable web applications and automation solutions. Currently pursuing my Master's in Computer Science at Heriot-Watt University while bringing 5+ years of professional experience to every project.
 
-</div>
-</div>
-</div>
+<br><br>
 
 🎓 Bachelor's in Information Technology from Universidad Abierta Interamericana
 
