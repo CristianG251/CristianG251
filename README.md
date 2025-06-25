@@ -1,4 +1,4 @@
-<h2>**Hey there! I'm Cristian González** 👋</h2>
+<h2>Hey there! I'm Cristian González 👋</h2>
 
 <div align="center">
 
