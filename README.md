@@ -16,6 +16,7 @@ I'm a passionate Full Stack Software Engineer from Buenos Aires, Argentina, with
 
 🎓 Bachelor's in Information Technology from Universidad Abierta Interamericana
 
+
 🎓 Master's in Computer Science (In Progress) - Heriot-Watt University, Edinburgh
 
 💼 Software Engineer at Alza (2021-2025)
